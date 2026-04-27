@@ -1,0 +1,64 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <https://w3id.org/airco#>
+
+SELECT DISTINCT ?property ?constructor ?namedValue WHERE {
+  :HighRiskUseCase_BiometricCategorisationSensitive rdfs:subClassOf* ?superClass .
+  ?superClass rdfs:subClassOf ?restriction .
+
+  {
+    ?restriction owl:complementOf ?compRestriction .
+    ?compRestriction owl:onProperty ?property ;
+                     owl:someValuesFrom ?namedValue .
+    FILTER(!isBlank(?namedValue))
+    BIND("complement-of-restriction" AS ?constructor)
+  }
+  UNION
+  {
+    ?restriction rdf:type owl:Restriction ;
+                 owl:onProperty ?property .
+    {
+      ?restriction owl:someValuesFrom ?namedValue .
+      FILTER(!isBlank(?namedValue))
+      BIND("direct" AS ?constructor)
+    }
+    UNION
+    {
+      ?restriction owl:hasValue ?namedValue .
+      BIND("hasValue" AS ?constructor)
+    }
+    UNION
+    {
+      ?restriction owl:allValuesFrom ?namedValue .
+      FILTER(!isBlank(?namedValue))
+      BIND("allValuesFrom" AS ?constructor)
+    }
+    UNION
+    {
+      ?restriction owl:someValuesFrom ?unionNode .
+      ?unionNode owl:unionOf/rdf:rest*/rdf:first ?namedValue .
+      FILTER(!isBlank(?namedValue))
+      BIND("union" AS ?constructor)
+    }
+    UNION
+    {
+      ?restriction owl:someValuesFrom ?intersectionNode .
+      ?intersectionNode owl:intersectionOf/rdf:rest*/rdf:first ?namedValue .
+      FILTER(!isBlank(?namedValue))
+      BIND("intersection-required" AS ?constructor)
+    }
+    UNION
+    {
+      ?restriction owl:someValuesFrom ?intersectionNode .
+      ?intersectionNode owl:intersectionOf/rdf:rest*/rdf:first ?complementNode .
+      ?complementNode owl:complementOf ?unionNode .
+      ?unionNode owl:unionOf/rdf:rest*/rdf:first ?namedValue .
+      FILTER(!isBlank(?namedValue))
+      BIND("intersection-excluded" AS ?constructor)
+    }
+  }
+  FILTER(?namedValue != rdf:nil)
+  FILTER(?namedValue != owl:Class)
+  FILTER(?namedValue != owl:Restriction)
+}

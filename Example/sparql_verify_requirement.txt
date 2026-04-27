@@ -1,0 +1,21 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <https://w3id.org/airco#>
+
+ASK {
+  :FacialAttributeClassifier :infersSensitiveAttribute ?attr .
+  ?attr rdf:type :SensitiveAttribute .
+
+  FILTER NOT EXISTS {
+    ?attr rdf:type ?prohibited .
+    FILTER(?prohibited IN (
+      :PhilosophicalBeliefs,
+      :PoliticalOpinions,
+      :Race,
+      :ReligiousBeliefs,
+      :SexLife,
+      :SexualOrientation,
+      :TradeUnionMembership
+    ))
+  }
+}

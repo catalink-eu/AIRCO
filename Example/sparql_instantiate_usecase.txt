@@ -1,0 +1,24 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <https://w3id.org/airco#>
+PREFIX airo:  <https://w3id.org/airo#>
+PREFIX vair:  <https://w3id.org/vair#>
+
+INSERT DATA {
+  :HighRiskUseCase_FacialAttributeClassifier
+      rdf:type owl:NamedIndividual ,
+        :HighRiskUseCase_BiometricCategorisationSensitive .
+
+  :ProhibitedUseCase_FacialAttributeClassifier
+      rdf:type owl:NamedIndividual ,
+        :ProhibitedUseCase_BiometricCategorisationProhibitedSensitive .
+
+  :TransparencyUseCase_FacialAttributeClassifier
+      rdf:type owl:NamedIndividual ,
+        :TransparencyRiskUseCase_BiometricCategorisation .
+
+  :FacialAttributeClassifier
+    :triggersRegulation :HighRiskUseCase_FacialAttributeClassifier ;
+    :triggersRegulation :ProhibitedUseCase_FacialAttributeClassifier ;
+    :triggersRegulation :TransparencyUseCase_FacialAttributeClassifier .
+}

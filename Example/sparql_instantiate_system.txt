@@ -1,0 +1,24 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <https://w3id.org/airco#>
+PREFIX airo: <https://w3id.org/airo#>
+PREFIX vair: <https://w3id.org/vair#>
+
+INSERT DATA {
+    :FacialAttributeClassifier
+        rdf:type owl:NamedIndividual , airo:AISystem .
+
+    :BiometricCatCapability_FacialAttributeClassifier
+        rdf:type owl:NamedIndividual , vair:BiometricCategorisation .
+
+    :SensitiveInferenceCapability_FacialAttributeClassifier
+        rdf:type owl:NamedIndividual , vair:SensitiveAttributeInference .
+
+    :BiometricInput_FacialAttributeClassifier
+        rdf:type owl:NamedIndividual , :BiometricData .
+
+    :FacialAttributeClassifier
+        airo:hasCapability :BiometricCatCapability_FacialAttributeClassifier ;
+        airo:hasCapability :SensitiveInferenceCapability_FacialAttributeClassifier ;
+        airo:hasInput :BiometricInput_FacialAttributeClassifier .
+}
