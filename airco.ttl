@@ -15,8 +15,8 @@
                                       <https://w3id.org/vair> ;
                           terms:description "Encodes EU AI Act risk categories, obligations, exceptions, and transparency requirements. Aligned with AIRO and VAIR ontologies."@en ;
                           terms:source "EU AI Act"@en ;
-                          terms:title "EU AI Act Risk Compliance Ontology"@en ;
-                          rdfs:label "EU AI Act Risk Compliance Ontology"@en .
+                          terms:title "AI Risk Compliance Ontology"@en ;
+                          rdfs:label "AI Risk Compliance Ontology"@en .
 
 #################################################################
 #    Object Properties
