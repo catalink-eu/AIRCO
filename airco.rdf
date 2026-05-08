@@ -2412,7 +2412,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
         </rdfs:subClassOf>
         <terms:source xml:lang="en">EU AI Act, Article 6(2), Annex III</terms:source>
         <rdfs:comment xml:lang="en">AI systems listed under Annex III use cases are high risk, subject to exceptions.</rdfs:comment>
-        <rdfs:label xml:lang="en">High-Risk Use Case</rdfs:label>
+        <rdfs:label xml:lang="en">High-Risk Use Case under Annex III Legislation</rdfs:label>
     </owl:Class>
     
 

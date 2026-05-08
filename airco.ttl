@@ -1671,7 +1671,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                          ] ;
                          terms:source "EU AI Act, Article 6(2), Annex III"@en ;
                          rdfs:comment "AI systems listed under Annex III use cases are high risk, subject to exceptions."@en ;
-                         rdfs:label "High-Risk Use Case"@en .
+                         rdfs:label "High-Risk Use Case under Annex III Legislation"@en .
 
 
 ###  https://w3id.org/airco#HighRiskUseCase_AssessingEducationLevel

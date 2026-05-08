@@ -7013,7 +7013,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#HighRiskUseCaseAnnexIII</IRI>
-        <Literal xml:lang="en">High-Risk Use Case</Literal>
+        <Literal xml:lang="en">High-Risk Use Case under Annex III Legislation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="terms:source"/>
