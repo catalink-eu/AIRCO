@@ -3078,7 +3078,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                   owl:onProperty :triggersRegulation ;
                                                   owl:someValuesFrom :HighRiskUseCase_AssessingEducationLevel
                                                 ] ;
-                                rdfs:comment "AI system archetype that triggers UseCase_AssessingEducationLevel."@en ;
+                                rdfs:comment "AI system archetype that triggers HighRiskUseCase_AssessingEducationLevel."@en ;
                                 rdfs:label "Education Level Assessment System"@en .
 
 
@@ -3124,7 +3124,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                            owl:onProperty :triggersRegulation ;
                                                            owl:someValuesFrom :ProhibitedUseCase_BiometricCategorisationProhibitedSensitive
                                                          ] ;
-                                         rdfs:comment "AI system archetype that triggers UseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive."@en ;
+                                         rdfs:comment "AI system archetype that triggers HighRiskUseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive."@en ;
                                          rdfs:label "Sensitive Biometric Categorisation System"@en .
 
 
@@ -3147,7 +3147,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                            owl:onProperty :triggersRegulation ;
                                            owl:someValuesFrom :HighRiskUseCase_Creditworthiness
                                          ] ;
-                         rdfs:comment "AI system archetype that triggers UseCase_Creditworthiness."@en ;
+                         rdfs:comment "AI system archetype that triggers HighRiskUseCase_Creditworthiness."@en ;
                          rdfs:label "Creditworthiness Evaluation System"@en .
 
 
@@ -3170,7 +3170,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                           owl:onProperty :triggersRegulation ;
                                           owl:someValuesFrom :HighRiskUseCase_CrimeVictimRisk
                                         ] ;
-                        rdfs:comment "AI system archetype that triggers UseCase_CrimeVictimRisk."@en ;
+                        rdfs:comment "AI system archetype that triggers HighRiskUseCase_CrimeVictimRisk."@en ;
                         rdfs:label "Crime Victim Risk Assessment System"@en .
 
 
@@ -3193,7 +3193,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                        owl:onProperty :triggersRegulation ;
                                                        owl:someValuesFrom :HighRiskUseCase_CriticalInfrastructureSafety
                                                      ] ;
-                                     rdfs:comment "AI system archetype that triggers UseCase_CriticalInfrastructureSafety."@en ;
+                                     rdfs:comment "AI system archetype that triggers HighRiskUseCase_CriticalInfrastructureSafety."@en ;
                                      rdfs:label "Critical Infrastructure Safety System"@en .
 
 
@@ -3235,7 +3235,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                           owl:onProperty :triggersRegulation ;
                                           owl:someValuesFrom :HighRiskUseCase_EducationAccess
                                         ] ;
-                        rdfs:comment "AI system archetype that triggers UseCase_EducationAccess."@en ;
+                        rdfs:comment "AI system archetype that triggers HighRiskUseCase_EducationAccess."@en ;
                         rdfs:label "Education Access Decision System"@en .
 
 
@@ -3254,7 +3254,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                       owl:onProperty :triggersRegulation ;
                                                       owl:someValuesFrom :HighRiskUseCase_EmergencyCallClassification
                                                     ] ;
-                                    rdfs:comment "AI system archetype that triggers UseCase_EmergencyCallClassification."@en ;
+                                    rdfs:comment "AI system archetype that triggers HighRiskUseCase_EmergencyCallClassification."@en ;
                                     rdfs:label "Emergency Call Classification System"@en .
 
 
@@ -3304,7 +3304,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                              owl:onProperty :triggersRegulation ;
                                              owl:someValuesFrom :TransparencyRiskUseCase_EmotionRecognition
                                            ] ;
-                           rdfs:comment "AI system archetype that triggers UseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition."@en ;
+                           rdfs:comment "AI system archetype that triggers HighRiskUseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition."@en ;
                            rdfs:label "Emotion Recognition System"@en .
 
 
@@ -3338,7 +3338,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                               owl:onProperty :triggersRegulation ;
                                               owl:someValuesFrom :HighRiskUseCase_EmploymentDecisions
                                             ] ;
-                            rdfs:comment "AI system archetype that triggers UseCase_EmploymentDecisions."@en ;
+                            rdfs:comment "AI system archetype that triggers HighRiskUseCase_EmploymentDecisions."@en ;
                             rdfs:label "Employment Decision System"@en .
 
 
@@ -3361,7 +3361,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                      owl:onProperty :triggersRegulation ;
                                                      owl:someValuesFrom :HighRiskUseCase_EvaluatingLearningOutcomes
                                                    ] ;
-                                   rdfs:comment "AI system archetype that triggers UseCase_EvaluatingLearningOutcomes."@en ;
+                                   rdfs:comment "AI system archetype that triggers HighRiskUseCase_EvaluatingLearningOutcomes."@en ;
                                    rdfs:label "Learning Outcome Evaluation System"@en .
 
 
@@ -3388,7 +3388,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                               owl:onProperty :triggersRegulation ;
                                               owl:someValuesFrom :HighRiskUseCase_EvidenceReliability
                                             ] ;
-                            rdfs:comment "AI system archetype that triggers UseCase_EvidenceReliability."@en ;
+                            rdfs:comment "AI system archetype that triggers HighRiskUseCase_EvidenceReliability."@en ;
                             rdfs:label "Evidence Reliability Evaluation System"@en .
 
 
@@ -3488,7 +3488,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                owl:onProperty :triggersRegulation ;
                                                owl:someValuesFrom :HighRiskUseCase_InfluencingElections
                                              ] ;
-                             rdfs:comment "AI system archetype that triggers UseCase_InfluencingElections."@en ;
+                             rdfs:comment "AI system archetype that triggers HighRiskUseCase_InfluencingElections."@en ;
                              rdfs:label "Election Influencing System"@en .
 
 
@@ -3514,7 +3514,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                   owl:onProperty :triggersRegulation ;
                                                   owl:someValuesFrom :HighRiskUseCase_InsuranceRiskAssessment
                                                 ] ;
-                                rdfs:comment "AI system archetype that triggers UseCase_InsuranceRiskAssessment."@en ;
+                                rdfs:comment "AI system archetype that triggers HighRiskUseCase_InsuranceRiskAssessment."@en ;
                                 rdfs:label "Insurance Risk Assessment System"@en .
 
 
@@ -3556,7 +3556,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                         owl:onProperty :triggersRegulation ;
                                                         owl:someValuesFrom :HighRiskUseCase_JusticeResearchAndApplication
                                                       ] ;
-                                      rdfs:comment "AI system archetype that triggers UseCase_JusticeResearchAndApplication."@en ;
+                                      rdfs:comment "AI system archetype that triggers HighRiskUseCase_JusticeResearchAndApplication."@en ;
                                       rdfs:label "Justice Research and Law Application System"@en .
 
 
@@ -3588,7 +3588,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                 owl:onProperty :triggersRegulation ;
                                                 owl:someValuesFrom :HighRiskUseCase_MigrationApplications
                                               ] ;
-                              rdfs:comment "AI system archetype that triggers UseCase_MigrationApplications."@en ;
+                              rdfs:comment "AI system archetype that triggers HighRiskUseCase_MigrationApplications."@en ;
                               rdfs:label "Migration Application Examination System"@en .
 
 
@@ -3616,7 +3616,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                   owl:onProperty :triggersRegulation ;
                                                   owl:someValuesFrom :HighRiskUseCase_MigrationIdentification
                                                 ] ;
-                                rdfs:comment "AI system archetype that triggers UseCase_MigrationIdentification."@en ;
+                                rdfs:comment "AI system archetype that triggers HighRiskUseCase_MigrationIdentification."@en ;
                                 rdfs:label "Migration Identification System"@en .
 
 
@@ -3649,7 +3649,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                         owl:onProperty :triggersRegulation ;
                                         owl:someValuesFrom :HighRiskUseCase_MigrationRisk
                                       ] ;
-                      rdfs:comment "AI system archetype that triggers UseCase_MigrationRisk."@en ;
+                      rdfs:comment "AI system archetype that triggers HighRiskUseCase_MigrationRisk."@en ;
                       rdfs:label "Irregular Migration Risk Assessment System"@en .
 
 
@@ -3676,7 +3676,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                    owl:onProperty :triggersRegulation ;
                                                    owl:someValuesFrom :ProhibitedUseCase_CriminalRiskProfiling
                                                  ] ;
-                                 rdfs:comment "AI system archetype that triggers UseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling."@en ;
+                                 rdfs:comment "AI system archetype that triggers HighRiskUseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling."@en ;
                                  rdfs:label "Offending Risk Assessment System"@en .
 
 
@@ -3699,7 +3699,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                     owl:onProperty :triggersRegulation ;
                                                     owl:someValuesFrom :HighRiskUseCase_Polygraphs_LawEnforcement
                                                   ] ;
-                                  rdfs:comment "AI system archetype that triggers UseCase_Polygraphs_LawEnforcement."@en ;
+                                  rdfs:comment "AI system archetype that triggers HighRiskUseCase_Polygraphs_LawEnforcement."@en ;
                                   rdfs:label "Law Enforcement Polygraph System"@en .
 
 
@@ -3727,7 +3727,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                owl:onProperty :triggersRegulation ;
                                                owl:someValuesFrom :HighRiskUseCase_Polygraphs_Migration
                                              ] ;
-                             rdfs:comment "AI system archetype that triggers UseCase_Polygraphs_Migration."@en ;
+                             rdfs:comment "AI system archetype that triggers HighRiskUseCase_Polygraphs_Migration."@en ;
                              rdfs:label "Migration Polygraph System"@en .
 
 
@@ -3759,7 +3759,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                            owl:onProperty :triggersRegulation ;
                                            owl:someValuesFrom :HighRiskUseCase_ProfilingInCrime
                                          ] ;
-                         rdfs:comment "AI system archetype that triggers UseCase_ProfilingInCrime."@en ;
+                         rdfs:comment "AI system archetype that triggers HighRiskUseCase_ProfilingInCrime."@en ;
                          rdfs:label "Criminal Profiling System"@en .
 
 
@@ -3782,7 +3782,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                      owl:onProperty :triggersRegulation ;
                                                      owl:someValuesFrom :HighRiskUseCase_ProhibitedStudentBehaviour
                                                    ] ;
-                                   rdfs:comment "AI system archetype that triggers UseCase_ProhibitedStudentBehaviour."@en ;
+                                   rdfs:comment "AI system archetype that triggers HighRiskUseCase_ProhibitedStudentBehaviour."@en ;
                                    rdfs:label "Student Behaviour Monitoring System"@en .
 
 
@@ -3805,7 +3805,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                     owl:onProperty :triggersRegulation ;
                                                     owl:someValuesFrom :HighRiskUseCase_PublicBenefitsEligibility
                                                   ] ;
-                                  rdfs:comment "AI system archetype that triggers UseCase_PublicBenefitsEligibility."@en ;
+                                  rdfs:comment "AI system archetype that triggers HighRiskUseCase_PublicBenefitsEligibility."@en ;
                                   rdfs:label "Public Benefits Eligibility System"@en .
 
 
@@ -3874,7 +3874,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                owl:onProperty :triggersRegulation ;
                                                owl:someValuesFrom :HighRiskUseCase_RecruitmentSelection
                                              ] ;
-                             rdfs:comment "AI system archetype that triggers UseCase_RecruitmentSelection."@en ;
+                             rdfs:comment "AI system archetype that triggers HighRiskUseCase_RecruitmentSelection."@en ;
                              rdfs:label "Recruitment and Selection System"@en .
 
 
@@ -3897,7 +3897,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                                         owl:onProperty :triggersRegulation ;
                                                         owl:someValuesFrom :HighRiskUseCase_RemoteBiometricIdentification
                                                       ] ;
-                                      rdfs:comment "AI system archetype that triggers UseCase_RemoteBiometricIdentification."@en ;
+                                      rdfs:comment "AI system archetype that triggers HighRiskUseCase_RemoteBiometricIdentification."@en ;
                                       rdfs:label "Remote Biometric Identification System"@en .
 
 

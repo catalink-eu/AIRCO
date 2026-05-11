@@ -4482,7 +4482,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_AssessingEducationLevel"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_AssessingEducationLevel.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_AssessingEducationLevel.</rdfs:comment>
         <rdfs:label xml:lang="en">Education Level Assessment System</rdfs:label>
     </owl:Class>
     
@@ -4546,7 +4546,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#ProhibitedUseCase_BiometricCategorisationProhibitedSensitive"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive.</rdfs:comment>
         <rdfs:label xml:lang="en">Sensitive Biometric Categorisation System</rdfs:label>
     </owl:Class>
     
@@ -4577,7 +4577,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_Creditworthiness"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_Creditworthiness.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_Creditworthiness.</rdfs:comment>
         <rdfs:label xml:lang="en">Creditworthiness Evaluation System</rdfs:label>
     </owl:Class>
     
@@ -4608,7 +4608,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_CrimeVictimRisk"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_CrimeVictimRisk.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_CrimeVictimRisk.</rdfs:comment>
         <rdfs:label xml:lang="en">Crime Victim Risk Assessment System</rdfs:label>
     </owl:Class>
     
@@ -4639,7 +4639,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_CriticalInfrastructureSafety"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_CriticalInfrastructureSafety.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_CriticalInfrastructureSafety.</rdfs:comment>
         <rdfs:label xml:lang="en">Critical Infrastructure Safety System</rdfs:label>
     </owl:Class>
     
@@ -4697,7 +4697,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_EducationAccess"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EducationAccess.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EducationAccess.</rdfs:comment>
         <rdfs:label xml:lang="en">Education Access Decision System</rdfs:label>
     </owl:Class>
     
@@ -4724,7 +4724,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_EmergencyCallClassification"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EmergencyCallClassification.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmergencyCallClassification.</rdfs:comment>
         <rdfs:label xml:lang="en">Emergency Call Classification System</rdfs:label>
     </owl:Class>
     
@@ -4795,7 +4795,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#TransparencyRiskUseCase_EmotionRecognition"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition.</rdfs:comment>
         <rdfs:label xml:lang="en">Emotion Recognition System</rdfs:label>
     </owl:Class>
     
@@ -4841,7 +4841,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_EmploymentDecisions"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EmploymentDecisions.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmploymentDecisions.</rdfs:comment>
         <rdfs:label xml:lang="en">Employment Decision System</rdfs:label>
     </owl:Class>
     
@@ -4872,7 +4872,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_EvaluatingLearningOutcomes"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EvaluatingLearningOutcomes.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EvaluatingLearningOutcomes.</rdfs:comment>
         <rdfs:label xml:lang="en">Learning Outcome Evaluation System</rdfs:label>
     </owl:Class>
     
@@ -4910,7 +4910,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_EvidenceReliability"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_EvidenceReliability.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_EvidenceReliability.</rdfs:comment>
         <rdfs:label xml:lang="en">Evidence Reliability Evaluation System</rdfs:label>
     </owl:Class>
     
@@ -5045,7 +5045,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_InfluencingElections"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_InfluencingElections.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_InfluencingElections.</rdfs:comment>
         <rdfs:label xml:lang="en">Election Influencing System</rdfs:label>
     </owl:Class>
     
@@ -5080,7 +5080,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_InsuranceRiskAssessment"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_InsuranceRiskAssessment.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_InsuranceRiskAssessment.</rdfs:comment>
         <rdfs:label xml:lang="en">Insurance Risk Assessment System</rdfs:label>
     </owl:Class>
     
@@ -5138,7 +5138,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_JusticeResearchAndApplication"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_JusticeResearchAndApplication.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_JusticeResearchAndApplication.</rdfs:comment>
         <rdfs:label xml:lang="en">Justice Research and Law Application System</rdfs:label>
     </owl:Class>
     
@@ -5184,7 +5184,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_MigrationApplications"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_MigrationApplications.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationApplications.</rdfs:comment>
         <rdfs:label xml:lang="en">Migration Application Examination System</rdfs:label>
     </owl:Class>
     
@@ -5223,7 +5223,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_MigrationIdentification"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_MigrationIdentification.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationIdentification.</rdfs:comment>
         <rdfs:label xml:lang="en">Migration Identification System</rdfs:label>
     </owl:Class>
     
@@ -5270,7 +5270,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_MigrationRisk"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_MigrationRisk.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationRisk.</rdfs:comment>
         <rdfs:label xml:lang="en">Irregular Migration Risk Assessment System</rdfs:label>
     </owl:Class>
     
@@ -5307,7 +5307,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#ProhibitedUseCase_CriminalRiskProfiling"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling.</rdfs:comment>
         <rdfs:label xml:lang="en">Offending Risk Assessment System</rdfs:label>
     </owl:Class>
     
@@ -5338,7 +5338,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_Polygraphs_LawEnforcement"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_Polygraphs_LawEnforcement.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_Polygraphs_LawEnforcement.</rdfs:comment>
         <rdfs:label xml:lang="en">Law Enforcement Polygraph System</rdfs:label>
     </owl:Class>
     
@@ -5377,7 +5377,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_Polygraphs_Migration"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_Polygraphs_Migration.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_Polygraphs_Migration.</rdfs:comment>
         <rdfs:label xml:lang="en">Migration Polygraph System</rdfs:label>
     </owl:Class>
     
@@ -5420,7 +5420,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_ProfilingInCrime"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_ProfilingInCrime.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_ProfilingInCrime.</rdfs:comment>
         <rdfs:label xml:lang="en">Criminal Profiling System</rdfs:label>
     </owl:Class>
     
@@ -5451,7 +5451,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_ProhibitedStudentBehaviour"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_ProhibitedStudentBehaviour.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_ProhibitedStudentBehaviour.</rdfs:comment>
         <rdfs:label xml:lang="en">Student Behaviour Monitoring System</rdfs:label>
     </owl:Class>
     
@@ -5482,7 +5482,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_PublicBenefitsEligibility"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_PublicBenefitsEligibility.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_PublicBenefitsEligibility.</rdfs:comment>
         <rdfs:label xml:lang="en">Public Benefits Eligibility System</rdfs:label>
     </owl:Class>
     
@@ -5575,7 +5575,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_RecruitmentSelection"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_RecruitmentSelection.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_RecruitmentSelection.</rdfs:comment>
         <rdfs:label xml:lang="en">Recruitment and Selection System</rdfs:label>
     </owl:Class>
     
@@ -5606,7 +5606,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                 <owl:someValuesFrom rdf:resource="https://w3id.org/airco#HighRiskUseCase_RemoteBiometricIdentification"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:comment xml:lang="en">AI system archetype that triggers UseCase_RemoteBiometricIdentification.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AI system archetype that triggers HighRiskUseCase_RemoteBiometricIdentification.</rdfs:comment>
         <rdfs:label xml:lang="en">Remote Biometric Identification System</rdfs:label>
     </owl:Class>
     

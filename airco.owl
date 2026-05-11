@@ -8060,7 +8060,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_AssessingEducationLevel</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_AssessingEducationLevel.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_AssessingEducationLevel.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8080,7 +8080,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_BiometricCategorisationSensitive</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8090,7 +8090,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_Creditworthiness</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_Creditworthiness.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_Creditworthiness.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8100,7 +8100,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_CrimeVictimRisk</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_CrimeVictimRisk.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_CrimeVictimRisk.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8110,7 +8110,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_CriticalInfrastructureSafety</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_CriticalInfrastructureSafety.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_CriticalInfrastructureSafety.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8130,7 +8130,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EducationAccess</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EducationAccess.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EducationAccess.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8140,7 +8140,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EmergencyCallClassification</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EmergencyCallClassification.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmergencyCallClassification.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8160,7 +8160,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EmotionRecognition</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8170,7 +8170,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EmploymentDecisions</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EmploymentDecisions.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EmploymentDecisions.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8180,7 +8180,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EvaluatingLearningOutcomes</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EvaluatingLearningOutcomes.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EvaluatingLearningOutcomes.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8190,7 +8190,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_EvidenceReliability</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_EvidenceReliability.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_EvidenceReliability.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8230,7 +8230,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_InfluencingElections</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_InfluencingElections.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_InfluencingElections.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8240,7 +8240,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_InsuranceRiskAssessment</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_InsuranceRiskAssessment.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_InsuranceRiskAssessment.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8260,7 +8260,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_JusticeResearchAndApplication</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_JusticeResearchAndApplication.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_JusticeResearchAndApplication.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8270,7 +8270,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_MigrationApplications</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_MigrationApplications.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationApplications.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8280,7 +8280,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_MigrationIdentification</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_MigrationIdentification.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationIdentification.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8290,7 +8290,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_MigrationRisk</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_MigrationRisk.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_MigrationRisk.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8300,7 +8300,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_OffendingReoffendingRisk</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8310,7 +8310,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_Polygraphs_LawEnforcement</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_Polygraphs_LawEnforcement.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_Polygraphs_LawEnforcement.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8320,7 +8320,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_Polygraphs_Migration</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_Polygraphs_Migration.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_Polygraphs_Migration.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8330,7 +8330,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_ProfilingInCrime</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_ProfilingInCrime.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_ProfilingInCrime.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8340,7 +8340,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_ProhibitedStudentBehaviour</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_ProhibitedStudentBehaviour.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_ProhibitedStudentBehaviour.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8350,7 +8350,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_PublicBenefitsEligibility</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_PublicBenefitsEligibility.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_PublicBenefitsEligibility.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8380,7 +8380,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_RecruitmentSelection</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_RecruitmentSelection.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_RecruitmentSelection.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -8390,7 +8390,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#System_RemoteBiometricIdentification</IRI>
-        <Literal xml:lang="en">AI system archetype that triggers UseCase_RemoteBiometricIdentification.</Literal>
+        <Literal xml:lang="en">AI system archetype that triggers HighRiskUseCase_RemoteBiometricIdentification.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>

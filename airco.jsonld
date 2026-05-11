@@ -9035,7 +9035,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_AssessingEducationLevel."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_AssessingEducationLevel."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9073,7 +9073,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_BiometricCategorisationSensitive and ProhibitedUseCase_BiometricCategorisationProhibitedSensitive."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9094,7 +9094,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_Creditworthiness."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_Creditworthiness."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9113,7 +9113,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_CrimeVictimRisk."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_CrimeVictimRisk."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9132,7 +9132,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_CriticalInfrastructureSafety."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_CriticalInfrastructureSafety."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9170,7 +9170,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EducationAccess."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EducationAccess."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9189,7 +9189,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EmergencyCallClassification."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EmergencyCallClassification."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9227,7 +9227,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EmotionRecognition and TransparencyRiskUseCase_EmotionRecognition."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9248,7 +9248,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EmploymentDecisions."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EmploymentDecisions."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9267,7 +9267,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EvaluatingLearningOutcomes."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EvaluatingLearningOutcomes."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9286,7 +9286,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_EvidenceReliability."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_EvidenceReliability."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9362,7 +9362,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_InfluencingElections."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_InfluencingElections."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9381,7 +9381,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_InsuranceRiskAssessment."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_InsuranceRiskAssessment."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9419,7 +9419,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_JusticeResearchAndApplication."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_JusticeResearchAndApplication."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9438,7 +9438,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_MigrationApplications."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_MigrationApplications."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9457,7 +9457,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_MigrationIdentification."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_MigrationIdentification."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9476,7 +9476,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_MigrationRisk."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_MigrationRisk."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9495,7 +9495,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_OffendingReoffendingRisk and ProhibitedUseCase_CriminalRiskProfiling."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9516,7 +9516,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_Polygraphs_LawEnforcement."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_Polygraphs_LawEnforcement."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9535,7 +9535,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_Polygraphs_Migration."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_Polygraphs_Migration."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9554,7 +9554,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_ProfilingInCrime."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_ProfilingInCrime."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9573,7 +9573,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_ProhibitedStudentBehaviour."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_ProhibitedStudentBehaviour."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9592,7 +9592,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_PublicBenefitsEligibility."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_PublicBenefitsEligibility."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9649,7 +9649,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_RecruitmentSelection."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_RecruitmentSelection."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -9668,7 +9668,7 @@
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
-    "@value" : "AI system archetype that triggers UseCase_RemoteBiometricIdentification."
+    "@value" : "AI system archetype that triggers HighRiskUseCase_RemoteBiometricIdentification."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
