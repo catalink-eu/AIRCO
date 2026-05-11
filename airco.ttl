@@ -199,10 +199,6 @@
                    rdfs:label "includes crime type"@en .
 
 
-###  https://w3id.org/airco#infersProhibitedSensitiveAttribute
-:infersProhibitedSensitiveAttribute rdf:type owl:ObjectProperty .
-
-
 ###  https://w3id.org/airco#infersSensitiveAttribute
 :infersSensitiveAttribute rdf:type owl:ObjectProperty ;
                           rdfs:range :SensitiveAttribute ;
@@ -1303,7 +1299,7 @@
                                                 ] ;
                                 terms:source "EU AI Act, Article 55(1)(a)"@en ;
                                 rdfs:comment "All providers of systemic GPAI models must perform model evaluations, including conducting and documenting adversarial testing to identify and mitigate systemic risk."@en ;
-                                rdfs:label "Model Evaluation for Systemic Risk Obligation"@en .
+                                rdfs:label "GPAI Model Evaluation for Systemic Risk Obligation"@en .
 
 
 ###  https://w3id.org/airco#GPAIObligation_SeriousIncidentReporting
@@ -1319,7 +1315,7 @@
                                                          ] ;
                                          terms:source "EU AI Act, Article 55(1)(c)"@en ;
                                          rdfs:comment "All providers of systemic GPAI models must track, document, and report serious incidents and possible corrective measures to the AI Office and relevant national competent authorities without undue delay."@en ;
-                                         rdfs:label "Serious Incident Reporting Obligation"@en .
+                                         rdfs:label "GPAI Serious Incident Reporting Obligation"@en .
 
 
 ###  https://w3id.org/airco#GPAIObligation_SystemicRiskMitigation
@@ -1327,7 +1323,7 @@
                                        rdfs:subClassOf :SystemicRiskObligation ;
                                        terms:source "EU AI Act, Article 55(1)(b)"@en ;
                                        rdfs:comment "All providers of systemic GPAI models must assess and mitigate possible systemic risks, including their sources."@en ;
-                                       rdfs:label "Systemic-Risk Assessment and Mitigation Obligation"@en .
+                                       rdfs:label "GPAI Systemic-Risk Assessment and Mitigation Obligation"@en .
 
 
 ###  https://w3id.org/airco#GPAIObligation_SystemicRiskNotification
@@ -1335,7 +1331,7 @@
                                          rdfs:subClassOf :SystemicRiskObligation ;
                                          terms:source "EU AI Act, Article 51(2)"@en ;
                                          rdfs:comment "All providers of systemic GPAI models must notify the Commission if their model meets the systemic risk criterion within 2 weeks."@en ;
-                                         rdfs:label "Systemic-Risk Notification Obligation"@en .
+                                         rdfs:label "GPAI Systemic-Risk Notification Obligation"@en .
 
 
 ###  https://w3id.org/airco#GPAIObligation_TechnicalDocumentation
@@ -2997,7 +2993,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
                                    ] ;
                    terms:source "EU AI Act, Article 53(1)"@en ;
                    rdfs:comment "A GPAI model whose providers are subject to standard GPAI obligations."@en ;
-                   rdfs:label "Proprietary Licence GPAI Model"@en .
+                   rdfs:label "Standard GPAI Model"@en .
 
 
 ###  https://w3id.org/airco#Suspect

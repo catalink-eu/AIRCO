@@ -914,9 +914,6 @@
         <ObjectProperty IRI="#includesCrimeType"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#infersProhibitedSensitiveAttribute"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#infersSensitiveAttribute"/>
     </Declaration>
     <Declaration>
@@ -6637,7 +6634,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#GPAIObligation_ModelEvaluation</IRI>
-        <Literal xml:lang="en">Model Evaluation for Systemic Risk Obligation</Literal>
+        <Literal xml:lang="en">GPAI Model Evaluation for Systemic Risk Obligation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="terms:source"/>
@@ -6652,7 +6649,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#GPAIObligation_SeriousIncidentReporting</IRI>
-        <Literal xml:lang="en">Serious Incident Reporting Obligation</Literal>
+        <Literal xml:lang="en">GPAI Serious Incident Reporting Obligation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="terms:source"/>
@@ -6667,7 +6664,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#GPAIObligation_SystemicRiskMitigation</IRI>
-        <Literal xml:lang="en">Systemic-Risk Assessment and Mitigation Obligation</Literal>
+        <Literal xml:lang="en">GPAI Systemic-Risk Assessment and Mitigation Obligation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="terms:source"/>
@@ -6682,7 +6679,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#GPAIObligation_SystemicRiskNotification</IRI>
-        <Literal xml:lang="en">Systemic-Risk Notification Obligation</Literal>
+        <Literal xml:lang="en">GPAI Systemic-Risk Notification Obligation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="terms:source"/>
@@ -7993,7 +7990,7 @@ providers, respect the Copyright Directive, sufficiently detailed summary about 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#StandardGPAIModel</IRI>
-        <Literal xml:lang="en">Proprietary Licence GPAI Model</Literal>
+        <Literal xml:lang="en">Standard GPAI Model</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>

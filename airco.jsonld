@@ -6872,7 +6872,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
-    "@value" : "Model Evaluation for Systemic Risk Obligation"
+    "@value" : "GPAI Model Evaluation for Systemic Risk Obligation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/airco#SystemicRiskObligation"
@@ -6892,7 +6892,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
-    "@value" : "Serious Incident Reporting Obligation"
+    "@value" : "GPAI Serious Incident Reporting Obligation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/airco#SystemicRiskObligation"
@@ -6914,7 +6914,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
-    "@value" : "Systemic-Risk Assessment and Mitigation Obligation"
+    "@value" : "GPAI Systemic-Risk Assessment and Mitigation Obligation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/airco#SystemicRiskObligation"
@@ -6932,7 +6932,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
-    "@value" : "Systemic-Risk Notification Obligation"
+    "@value" : "GPAI Systemic-Risk Notification Obligation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/airco#SystemicRiskObligation"
@@ -8921,7 +8921,7 @@
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
-    "@value" : "Proprietary Licence GPAI Model"
+    "@value" : "Standard GPAI Model"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://w3id.org/airo#GPAIModel"
@@ -10707,9 +10707,6 @@
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
     "@id" : "https://w3id.org/airco#SeriousCrime"
   } ]
-}, {
-  "@id" : "https://w3id.org/airco#infersProhibitedSensitiveAttribute",
-  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
 }, {
   "@id" : "https://w3id.org/airco#infersSensitiveAttribute",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
