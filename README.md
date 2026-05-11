@@ -9,3 +9,15 @@ AIRCO extends the AIRO and VAIR ontologies, introducing new classes for all use 
 A user or agent instantiates an AI System individual with descriptive characteristics and inference rules trace it to its applicable risk category after 
 which further user-and-agent information input is requested to aid infer obligation and exception satisfaction. 
 This way, AIRCO enables the possibility for classification that is machine-executable and explainable through a chain of inferred class memberships.
+
+## Vocabulary
+[https://w3id.org/airco](https://w3id.org/airco)
+
+## Contact
+- Marios Iacovou  
+Email: [marios.iacovou@catalink.eu](mailto:marios.iacovou@catalink.eu)  
+Github: [@miacov](https://github.com/miacov)
+
+- Stavroulla Koumou  
+Email: [stavroulla.koumou@catalink.eu](mailto:stavroulla.koumou@catalink.eu)  
+Github: [@skoumo01](https://github.com/skoumo01)
